@@ -9,9 +9,3 @@ A two-stage non-inverting analog amplifier circuit for capturing and analyzing E
 
 ## Technologies
 Analog Circuit Design · AD623 · MATLAB · Oscilloscope Testing
-
-## Demo
-Coming soon...
-
-## License
-MIT
